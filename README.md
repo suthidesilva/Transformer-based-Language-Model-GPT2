@@ -7,8 +7,6 @@ Use the OpenAI GPT-2 language model (based on Transformers) to:
 Generate text sequences based on seed texts
 Convert text sequences into numerical representations
 
-### I kept getting multiple erros so I am still working on it.
-
 # Language Model Builder in Python
 
 ## Overview
